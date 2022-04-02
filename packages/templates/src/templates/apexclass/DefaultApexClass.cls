@@ -1,4 +1,4 @@
-public with sharing class <%= apiName %> {
+public without sharing class <%= apiName %> {
     public <%= apiName %>() {
 
     }
